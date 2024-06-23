@@ -53,17 +53,57 @@ The Cayman branch, however, has a slightly higher proportion of female and marri
 
 There were 12 tables used to capture the customer data. These tables were: account_caymanbranch, account_mobaybranch, card_caymanbranch, card_mobaybranch, customer_caymanbranch, customer_mobaybranch, customer_verif_caymanbranch, customer_verif_mobaybranch, loans_caymanbranch, loans_mobaybranch, transactions_caymanbranch, transactions_mobaybranch. Please see below snippets of each table.
 #### The customer_mobaybranch table
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/120ef22c-ff1e-480d-bdae-b543f0732d36)
+
 #### The customer_caymanbranch table
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/0deea529-5463-40b5-aac1-8715bcf92f53)
+
 #### The customer_verif_mobaybranch table
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/138f8a5e-b4d5-4bb3-8c88-a247fe194d75)
+
 #### The customer_verif_caymanbranch table
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/815de91e-01fe-477d-9043-5e5725543ff9)
+
 #### The account_mobaybranch table
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/0bfc7b0b-0c7a-4573-955b-0c02d51eb8dc)
+
 #### The account_caymanbranch table
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/f36b521d-6124-4a94-af00-4b468f566761)
+
+
 #### The card_mobaybranch table
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/b9b0bf63-0e36-49b6-8062-96383a4425c5)
+
 #### The card_caymanbranch table
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/3d22368a-d88f-4ea6-adbe-ed86ffb2fb32)
+
 #### The transactions_mobaybranch table
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/472eb929-cecd-44dc-96f0-9e7de7afc723)
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/3cf00211-8bcf-4aaa-b584-4b4be037e8b4)
+
+
+
 #### The transactions_caymanbranch table
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/d0a1d591-8175-4126-a853-9374929d353f)
+
 ####  The loans_mobaybranch table
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/377c26ac-ccc0-413e-b081-731f9a5f49fe)
+
 #### The loans_caymanbranch table
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/44ffb356-75c8-4528-a0ed-95d883a13dca)
+
 
 
 ### Data Analysis
