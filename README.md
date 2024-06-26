@@ -271,13 +271,79 @@ GROUP BY acct_id;
 ![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/cacfff90-209d-46bd-a546-351d2ede1535)
 
 ### Results Of Findings
+
+- For both the Cayman and Mobay Branches, the main transactions done were deposits.
+
+- For both branches, the Customers conducted no transactions within the last six(6) months, thus accounts had an inactive status.
+
+- The Cayman Branch serviced less customers than the Mobay Branch, as it is possible that many of the citizens made use of Offshore Banking. Offshore banking is popular in Cayman Islands due to privacy benefits, tax advantages, and access to international financial services.
+  
+- More females were qualified for loans than males.
+
+- More than half of the customers of the Mobay Branch were eligible for credit cards. This could be as a result of higher income levels, favorable economic conditions and a good credit history in the case of these customers.
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/23380502-4ab2-4220-bb39-9ac6779bb028)
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/ea23e08e-07f9-4354-a24f-d9747c0d9a80)
+
+
+  
+- The customers at the Cayman Branch have a greater inclination towards savings accounts.
+  
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/bd537785-3a3e-47dd-9d0b-9cd11ab18b54)
+
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/46355537-1a5a-4051-928a-2535f37242cb)
+
+
+- The customers at the Mobay Branch share an even split in the preference for account types- there are equal number of savings and current accounts.
+  
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/37143dd0-ca7e-438a-a0e9-be863c7f9f50)
+
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/9cbf04aa-c27c-44cb-8d15-b22b10ce38a0)
+
+
+- The Cayman Branch has slightly more female customers compared to male customers.
+  
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/66170dba-b5c2-4857-8ca5-8397b33321ea)
+
+
+- The Mobay Branch has equal number of male and female customers.
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/6cbbe8d0-1b64-43f8-b0a9-1d61381386f0)
+
+
+- All of the Customers of both the Cayman and Mobay Branches conducted 4 transactions each. For the Cayman Branch, the Customer with Account ID 22- Christopher Clarke, made the highest total transaction of $155,000.00, while the Customer with Account ID 28- Tiffany Brooks, made the lowest transaction of $20,000.00. For the Mobay Branch, the Customer with Account ID 2- Davia Haughton, made the highest total transaction of $140,000.00, while the Customer with Account ID 14- Judah Finson, made the lowest transaction of $22,000.00.
+  
+Pivot table showing sum of transactions per Customer- Cayman Branch:
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/09ab76ed-740b-4a67-8ed3-d2ac2049a54f)
+
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/47f940bd-c294-47f6-a9d0-2d25408815b3)
+
+Pivot table showing sum of transactions per Customer- Mobay Branch:
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/92c44c80-7dbc-4351-af47-498fb96913e4)
+
+
+![image](https://github.com/ChrisAnn609/Banking-Industry-Analysis-SQL/assets/173093556/c539ae63-fb54-4d2d-820f-e2966af1a3e5)
+
+
+
+
 ### Recommendations
 - Implement loyalty programs that reward frequent transactions. This will encourage customers to keep their accounts active.
 - Offer more loans that will cater to the needs of customers such as: Home improvement loans, educational loans or small business loans. This will in turn attract more customers.
 - Expand the offerings to customers to include insurance products or investment plans offerings.
+- Get feedback from customers and based on this feedback, promptly address any issues to improve service.
+- Offer workshops and seminars on financial literacy, especially in the Cayman region, to attract more customers to using the Bank's facilities.
+- Make use of social media platforms to engage with potential and current customers.
   
 ### Limitations
 - The data had a narrow scope, preventing a broader analysis.
+- Customer preferences and behaviors can change rapidly, making it difficult to make future predictions.
 
 
 
